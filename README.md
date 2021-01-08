@@ -5,7 +5,7 @@
 
 ## 📋 Description
 ### What is it?
-Exercícios de lógica de programação usando javascript
+Programming logic exercises using javascript
 
 ## 💻 Deploy
 ### Alvo: 
